@@ -1,0 +1,1 @@
+[{"brand": "Tata", "model": "Fortuner"}, {"brand": "Suzuki", "model": "Swift"}]

@@ -1,0 +1,17 @@
+{% extends "base.jinja2" %}
+{% block title_name %}Create Post{% endblock title_name %}
+{% block body_content %}
+<form method="POST">
+    <div>
+        <label for="title">Enter post title: </label>
+        <input type="text" name="title">
+    </div>
+    <div>
+        <label for="content">Enter your message: </label>
+        <textarea name="content"></textarea>
+    </div>
+    <div>
+        <input type="submit">
+    </div>
+</form>
+{% endblock body_content %}

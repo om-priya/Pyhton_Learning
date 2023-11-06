@@ -1,0 +1,122 @@
+18-10-2023 11:33:30 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 11:33:30] "GET /post/1 HTTP/1.1" 200 -
+18-10-2023 11:33:38 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 11:33:38] "GET /post/2 HTTP/1.1" 200 -
+18-10-2023 11:34:00 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 11:34:00] "GET /post/2 HTTP/1.1" 200 -
+18-10-2023 11:48:41 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+18-10-2023 11:48:41 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+18-10-2023 11:48:41 INFO     [_internal.py:96]  * Restarting with stat
+18-10-2023 11:48:41 WARNING  [_internal.py:96]  * Debugger is active!
+18-10-2023 11:48:41 INFO     [_internal.py:96]  * Debugger PIN: 139-360-775
+18-10-2023 11:48:57 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 11:48:57] "GET / HTTP/1.1" 200 -
+18-10-2023 11:49:06 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 11:49:06] "GET /post/0 HTTP/1.1" 200 -
+18-10-2023 11:49:11 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 11:49:11] "GET /post/1 HTTP/1.1" 200 -
+18-10-2023 13:17:24 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\opriya\\OneDrive - WatchGuard Technologies Inc\\Learn Python\\15. Flask\\app.py', reloading
+18-10-2023 13:17:24 INFO     [_internal.py:96]  * Restarting with stat
+18-10-2023 13:18:32 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+18-10-2023 13:18:32 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+18-10-2023 13:18:32 INFO     [_internal.py:96]  * Restarting with stat
+18-10-2023 13:18:33 WARNING  [_internal.py:96]  * Debugger is active!
+18-10-2023 13:18:33 INFO     [_internal.py:96]  * Debugger PIN: 139-360-775
+18-10-2023 13:18:50 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 13:18:50] "GET / HTTP/1.1" 200 -
+18-10-2023 13:18:58 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 13:18:58] "GET / HTTP/1.1" 200 -
+18-10-2023 13:19:02 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 13:19:02] "GET / HTTP/1.1" 200 -
+18-10-2023 13:19:04 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 13:19:04] "GET / HTTP/1.1" 200 -
+18-10-2023 13:19:26 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 13:19:26] "GET /post/create HTTP/1.1" 200 -
+18-10-2023 13:20:58 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+18-10-2023 13:20:58 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+18-10-2023 13:20:58 INFO     [_internal.py:96]  * Restarting with stat
+18-10-2023 13:20:59 WARNING  [_internal.py:96]  * Debugger is active!
+18-10-2023 13:20:59 INFO     [_internal.py:96]  * Debugger PIN: 139-360-775
+18-10-2023 13:21:02 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 13:21:02] "[33mGET /post/create HTTP/1.1[0m" 404 -
+18-10-2023 13:21:09 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 13:21:09] "GET /post/form HTTP/1.1" 200 -
+18-10-2023 13:21:23 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 13:21:23] "[33mGET /post/create?title=hello+bhai&content=chai+pii+lo HTTP/1.1[0m" 404 -
+18-10-2023 13:21:38 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\opriya\\OneDrive - WatchGuard Technologies Inc\\Learn Python\\15. Flask\\app.py', reloading
+18-10-2023 13:21:38 INFO     [_internal.py:96]  * Restarting with stat
+18-10-2023 13:27:05 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+18-10-2023 13:27:05 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+18-10-2023 13:27:05 INFO     [_internal.py:96]  * Restarting with stat
+18-10-2023 13:27:05 WARNING  [_internal.py:96]  * Debugger is active!
+18-10-2023 13:27:05 INFO     [_internal.py:96]  * Debugger PIN: 139-360-775
+18-10-2023 13:27:15 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 13:27:15] "[33mGET /post HTTP/1.1[0m" 404 -
+18-10-2023 13:27:18 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 13:27:18] "[33mGET /post HTTP/1.1[0m" 404 -
+18-10-2023 13:27:24 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 13:27:24] "GET /post/0 HTTP/1.1" 200 -
+18-10-2023 13:27:32 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 13:27:32] "GET /post/form HTTP/1.1" 200 -
+18-10-2023 13:27:59 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 13:27:59] "[32mGET /post/create?title=Hello+Watchguard&content=This+is+my+second+blog+post. HTTP/1.1[0m" 302 -
+18-10-2023 13:27:59 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 13:27:59] "GET /post/1 HTTP/1.1" 200 -
+18-10-2023 13:28:05 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 13:28:05] "GET /post/0 HTTP/1.1" 200 -
+18-10-2023 13:28:09 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 13:28:09] "GET /post/1 HTTP/1.1" 200 -
+18-10-2023 13:36:08 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+18-10-2023 13:36:08 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+18-10-2023 13:36:08 INFO     [_internal.py:96]  * Restarting with stat
+18-10-2023 13:36:09 WARNING  [_internal.py:96]  * Debugger is active!
+18-10-2023 13:36:09 INFO     [_internal.py:96]  * Debugger PIN: 139-360-775
+18-10-2023 13:36:24 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 13:36:24] "GET /post/1 HTTP/1.1" 200 -
+18-10-2023 13:36:29 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 13:36:29] "GET /post/form HTTP/1.1" 200 -
+18-10-2023 13:36:50 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 13:36:50] "[32mPOST /post/create HTTP/1.1[0m" 302 -
+18-10-2023 13:36:50 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 13:36:50] "GET /post/1 HTTP/1.1" 200 -
+18-10-2023 13:39:27 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\opriya\\OneDrive - WatchGuard Technologies Inc\\Learn Python\\15. Flask\\app.py', reloading
+18-10-2023 13:39:27 INFO     [_internal.py:96]  * Restarting with stat
+18-10-2023 13:41:20 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+18-10-2023 13:41:20 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+18-10-2023 13:41:20 INFO     [_internal.py:96]  * Restarting with stat
+18-10-2023 13:41:21 WARNING  [_internal.py:96]  * Debugger is active!
+18-10-2023 13:41:21 INFO     [_internal.py:96]  * Debugger PIN: 139-360-775
+18-10-2023 13:41:29 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 13:41:29] "GET / HTTP/1.1" 200 -
+18-10-2023 13:41:43 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 13:41:43] "GET /post/create HTTP/1.1" 200 -
+18-10-2023 13:42:04 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 13:42:04] "[32mPOST /post/create HTTP/1.1[0m" 302 -
+18-10-2023 13:42:04 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 13:42:04] "GET /post/1 HTTP/1.1" 200 -
+18-10-2023 14:02:00 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+18-10-2023 14:02:00 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+18-10-2023 14:02:00 INFO     [_internal.py:96]  * Restarting with stat
+18-10-2023 14:02:00 WARNING  [_internal.py:96]  * Debugger is active!
+18-10-2023 14:02:00 INFO     [_internal.py:96]  * Debugger PIN: 139-360-775
+18-10-2023 14:02:07 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 14:02:07] "GET / HTTP/1.1" 200 -
+18-10-2023 14:02:41 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+18-10-2023 14:02:41 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+18-10-2023 14:02:41 INFO     [_internal.py:96]  * Restarting with stat
+18-10-2023 14:02:42 WARNING  [_internal.py:96]  * Debugger is active!
+18-10-2023 14:02:42 INFO     [_internal.py:96]  * Debugger PIN: 139-360-775
+18-10-2023 14:02:48 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 14:02:48] "[35m[1mGET / HTTP/1.1[0m" 500 -
+18-10-2023 14:02:48 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 14:02:48] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+18-10-2023 14:02:48 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 14:02:48] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+18-10-2023 14:02:48 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 14:02:48] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+18-10-2023 14:02:48 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 14:02:48] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+18-10-2023 14:03:04 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\opriya\\OneDrive - WatchGuard Technologies Inc\\Learn Python\\15. Flask\\app.py', reloading
+18-10-2023 14:03:04 INFO     [_internal.py:96]  * Restarting with stat
+18-10-2023 14:03:05 WARNING  [_internal.py:96]  * Debugger is active!
+18-10-2023 14:03:05 INFO     [_internal.py:96]  * Debugger PIN: 139-360-775
+18-10-2023 14:03:14 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 14:03:14] "GET / HTTP/1.1" 200 -
+18-10-2023 14:03:18 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 14:03:18] "GET /post/0 HTTP/1.1" 200 -
+18-10-2023 14:03:27 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 14:03:27] "GET /post/create HTTP/1.1" 200 -
+18-10-2023 14:03:46 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 14:03:46] "[32mPOST /post/create HTTP/1.1[0m" 302 -
+18-10-2023 14:03:46 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 14:03:46] "GET /post/1 HTTP/1.1" 200 -
+18-10-2023 14:03:50 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 14:03:50] "GET / HTTP/1.1" 200 -
+18-10-2023 14:07:25 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 14:07:25] "GET / HTTP/1.1" 200 -
+18-10-2023 14:07:26 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 14:07:26] "[33mGET /url_for('home') HTTP/1.1[0m" 404 -
+18-10-2023 14:07:44 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 14:07:44] "[33mGET /url_for('home') HTTP/1.1[0m" 404 -
+18-10-2023 14:07:47 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 14:07:47] "GET / HTTP/1.1" 200 -
+18-10-2023 14:07:53 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 14:07:53] "GET /post/1 HTTP/1.1" 200 -
+18-10-2023 14:07:56 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 14:07:56] "GET / HTTP/1.1" 200 -
+18-10-2023 14:10:41 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 14:10:41] "GET / HTTP/1.1" 200 -
+18-10-2023 14:10:44 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 14:10:44] "GET /post/create HTTP/1.1" 200 -
+18-10-2023 14:10:46 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 14:10:46] "GET / HTTP/1.1" 200 -
+18-10-2023 14:10:49 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 14:10:49] "GET /post/0 HTTP/1.1" 200 -
+18-10-2023 14:10:50 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 14:10:50] "GET / HTTP/1.1" 200 -
+18-10-2023 17:19:23 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+18-10-2023 17:19:23 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+18-10-2023 17:19:23 INFO     [_internal.py:96]  * Restarting with stat
+18-10-2023 17:19:24 WARNING  [_internal.py:96]  * Debugger is active!
+18-10-2023 17:19:24 INFO     [_internal.py:96]  * Debugger PIN: 139-360-775
+18-10-2023 17:19:34 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 17:19:34] "GET / HTTP/1.1" 200 -
+18-10-2023 17:19:48 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 17:19:48] "GET /post/0 HTTP/1.1" 200 -
+18-10-2023 17:19:54 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 17:19:54] "GET /post/create HTTP/1.1" 200 -
+18-10-2023 17:20:03 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 17:20:03] "[32mPOST /post/create HTTP/1.1[0m" 302 -
+18-10-2023 17:20:03 INFO     [_internal.py:96] 127.0.0.1 - - [18/Oct/2023 17:20:03] "GET /post/1 HTTP/1.1" 200 -
